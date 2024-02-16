@@ -1,0 +1,32 @@
+//-------------------- SF Pro Display -------------------->
+@font-face {
+	font-family: 'SFProDisplay Regular';
+	src: url('@/assets/fonts/SF-Pro-Display-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'SFProDisplay Medium';
+	src: url('@/assets/fonts/SF-Pro-Display-Medium.otf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'SFProDisplay SemiBold';
+	src: url('@/assets/fonts/SF-Pro-Display-Semibold.otf');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'SFProDisplay Black';
+	src: url('@/assets/fonts/SF-Pro-Display-Black.otf');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+};
